@@ -26,4 +26,17 @@ This is a database application built using **Microsoft Access** to manage client
 
 ---
 
-![ss1](ścieżka_do_obrazu)
+![ss1](images/ss1)
+![ss2](images/ss2)
+![ss3](images/ss3)
+![ss4](images/ss4)
+![ss5](images/ss5)
+![ss6](images/ss6)
+![ss7](images/ss7)
+![ss8](images/ss8)
+![ss9](images/ss9)
+![ss10](images/ss10)
+![ss11](images/ss11)
+![ss12](images/ss12)
+![ss13](images/ss13)
+![ss14](images/ss14)
