@@ -1,6 +1,9 @@
 # 📊 Database Project – Client Management System (Access)
 
-This is a simple database application built using **Microsoft Access** to manage client information, service records, and billing data. Designed as part of my academic work in database systems.
+This is a database application built using **Microsoft Access** to manage client information, service records, and billing data.
+
+> 📄 **Full project documentation available here:**  
+> [DOKUMENTACJA.docx](https://github.com/PawWoz/clinic-management-access/blob/main/BAZA-DANYCH-PRZYCHODNIA-kopia.docx)
 
 ---
 
@@ -22,3 +25,5 @@ This is a simple database application built using **Microsoft Access** to manage
 - VBA
 
 ---
+
+![ss1](ścieżka_do_obrazu)
