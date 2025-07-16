@@ -5,6 +5,15 @@ This is a database application built using **Microsoft Access** to manage client
 > 📄 **Full project documentation available here:**  
 > [DOKUMENTACJA.docx](https://github.com/PawWoz/clinic-management-access/blob/main/BAZA-DANYCH-PRZYCHODNIA-kopia.docx)
 
+<div align="center">
+
+[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/access)
+[![VBA](https://img.shields.io/badge/VBA-0078D7?style=for-the-badge&logo=visual-basic&logoColor=white)](https://learn.microsoft.com/en-us/office/vba/api/overview/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+</div>
+
+
 ---
 
 ## 🧠 Features
