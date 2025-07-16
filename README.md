@@ -65,10 +65,10 @@ This is a database application built using **Microsoft Access** to manage client
 ![ss13](images/ss13.png)
 ---
 ### List of logical entities
-![list-of-logical-entities](images/list-of-logical-entities)
+![list-of-logical-entities](images/list-of-logical-entities.png)
 ---
 ### Logical data model
-![logical-model](images/logical-model)
+![logical-model](images/logical-model.png)
 ---
 ### Physical data model
-![physical-model](images/physical-model)
+![physical-model](images/physical-model.png)
