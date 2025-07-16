@@ -37,17 +37,38 @@ This is a database application built using **Microsoft Access** to manage client
 
 ## Some sample screenshots
 
+### Navigation form
 ![ss1](images/ss1.png)
+---
+### Patient addition form
 ![ss2](images/ss2.png)
+---
+### Medical data addition form
 ![ss3](images/ss3.png)
-![ss4](images/ss4.png)
+---
+### Medical history addition form
 ![ss5](images/ss5.png)
+---
+### Form for adding visits
 ![ss6](images/ss6.png)
+---
+### Form for adding employees
 ![ss7](images/ss7.png)
-![ss8](images/ss8.png)
+---
+### Work schedule view
 ![ss9](images/ss9.png)
+---
+### Patient data view
 ![ss10](images/ss10.png)
-![ss11](images/ss11.png)
-![ss12](images/ss12.png)
+---
+### Visit view
 ![ss13](images/ss13.png)
-![ss14](images/ss14.png)
+---
+### List of logical entities
+![list-of-logical-entities](images/list-of-logical-entities)
+---
+### Logical data model
+![logical-model](images/logical-model)
+---
+### Physical data model
+![physical-model](images/physical-model)
